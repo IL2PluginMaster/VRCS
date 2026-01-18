@@ -2,7 +2,6 @@ usr_c9a2f644-3e3e-4915-af63-07f9dd9418ff | VRChat Stealth Alpha Tester | gradien
 usr_6aa4893f-251b-42ea-a9ad-f273e26f40b6 | VRChat Stealth Alpha Tester | gradient:#8B6FD6:#BFA7FF
 usr_84197f1e-1243-47f0-a813-0f5dff432986 | Don't dwell on the past, you will never change it, if you go through life looking backwards you will trip quite a lot. | gradient:#8B6FD6:#BFA7FF
 usr_65574ac7-53b2-4556-ad0c-a361895d9284 | Louie, A Moment Of Pain Is Worth A Lifetime Of Glory. You Remember That| gradient:#7B8CFF:#B6E0FF
-usr_84197f1e-1243-47f0-a813-0f5dff432986 | You Think That's Air You're Breathing? | gradient:#4A6CFF:#9BB7FF
 usr_a4fe073c-2421-4ab5-903f-5be0905d7054 | Blacklist No Second Chances | gradient:#2B2B2B:#6B6B6B
 usr_b65a4715-ddcf-47e4-809f-e63c0b119b75 | Blacklist Access Denied | gradient:#1F1F1F:#555555
 usr_2fa0bb4c-78a4-42d5-840c-9a485c619cc9 | Blacklist | gradient:#1F1F1F:#555555
